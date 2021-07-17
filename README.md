@@ -25,7 +25,7 @@ The apk is also stored inside Appium folder which can be manually installed to a
 Appium Testing
 
 The Appium test folder can also be dragged and dropped to where your tests are stored at.
-The Appium folder contains a Jars folder and has important Jar files relating to Java and Selenium Java Client which the test file must import in order to function properly. 
+The Appium folder contains a Jars folder and has important Jar files related to Java and Selenium Java Client which the test file must import in order to function properly. 
 It should also be ensured that the Appium Desktop application has been installed properly and a server is running on port 4723 of your computer. 
 
 Lastly, the test file will need to be heavily modified since the test file currently is created for an Android Device "Xiaomi Redmi 9"
